@@ -15,8 +15,8 @@ Welcome to my GitHub! I'm an aspiring **Web Developer** with a passion for creat
 - **Backend:** Node.js, MongoDB
 
 ### 📫 How to Reach Me
-- LinkedIn: [LinkedIn](www.linkedin.com/in/vasilena-todorova-2b153a220)
-- Email: [Email me](mailto:vasilenaph13@gmail.com)
+- LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/vasilena-todorova-2b153a220)
+- Email: [Send me an email](mailto:vasilenaph13@gmail.com)
 
 ### 🚀 Current Focus
 - Building projects to refine my skills in JavaScript and React.
