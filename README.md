@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm an aspiring Frontend Developer with a passion for crea
 
 - **Languages:** JavaScript, HTML, CSS
 - **Frameworks/Libraries:** React, Angular
-- **Tools:** Git, Vite, Tailwind CSS
+- **Tools:** Vite, Tailwind CSS
 - **Backend:** Node.js, MongoDB
 
 ---
