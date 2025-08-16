@@ -18,7 +18,7 @@
 <br>
 
 - 🚗 **OldSchoolCars** – A simple web app for showcasing and browsing classic cars. Built with React and styled using TailwindCSS. This project was part of my learning journey and helped me practice building layouts and adding interactivity with support and guidance.  
-  [OldSchoolCars](https://github.com/vasilenaph/oldschoolcars)  
+  [ClassicOldCars](https://github.com/vasilenaph/classic-old-cars)  
 <br>
 
 - ✨ **Additional small projects** – A collection of practice apps and coding exercises exploring JavaScript fundamentals and DOM manipulation. These projects helped me improve problem-solving skills and get comfortable with web development basics.  
