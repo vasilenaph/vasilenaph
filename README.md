@@ -1,40 +1,52 @@
-# Hi there, I'm Vasilena Todorova 👋
+<h1 align="center">Hello, I'm Vasilena 🇧🇬</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vasilena-todorova">
+    <img align="center" alt="Vasilena's LinkedIn" width="30px"
+      src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/vasilenaph">
+    <img align="center" alt="Vasilena's GitHub" width="32px"
+      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+  </a>
+</p>
+<br>
 
-Welcome to my GitHub! I'm an aspiring Frontend Developer with a passion for creating dynamic, user-friendly applications.
+# 🎓 Education
+- **Software University (SoftUni)** – Courses in JavaScript Development  
+<br>
 
----
+# 💻 Projects
+- 📷 **LensBay (in progress)** – A React app for photo marketplace functionality. Focused on clean UI and reusable components.  
+  [LensBay](https://github.com/vasilenaph/lens-bay-app)  
+<br>
 
-## 👨‍💻 About Me
+- 🚗 **OldSchoolCars** – A simple web app for showcasing and browsing classic cars. Built with HTML, CSS, and JavaScript.  
+  [OldSchoolCars](https://github.com/vasilenaph/oldschoolcars)  
+<br>
 
-- 🌱 I started my coding journey in **January 2023** and have been learning and building ever since!
-- 🚀 I love working on **personal projects** to improve my skills and explore new ideas.
-- 💡 I'm particularly interested in **frontend development** and creating seamless user experiences.
-- 🌍 I enjoy learning and growing in a **collaborative tech environment**.
+- ✨ **Additional small projects** – Learning-focused apps and exercises exploring JavaScript fundamentals.  
+<br>
 
----
+# </> Technologies and Tools
+<img align="left" alt="html" width="40px"
+  src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" alt="css" width="40px"
+  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+<img align="left" alt="javascript" width="40px"
+  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="react" width="40px"
+  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+<img align="left" alt="angular" width="40px"
+  src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" />
+<img align="left" alt="nodejs" width="40px"
+  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />  
+<br><br>
+<br>
 
-## 🔧 Tech Stack
+# 🏋️‍♀️ Hobbies
+- Editing Photos & Videos, Traveling, Skiing  
+<br>
 
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks/Libraries:** React, Angular
-- **Tools:** Vite, Tailwind CSS
-- **Backend:** Node.js, MongoDB
-
----
-
-## 📫 How to Reach Me
-
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/vasilena-todorova-2b153a220/)
-- **Email:** vasilenaph13@gmail.com
-
----
-
-## 🚀 Current Focus
-
-- Building projects to refine my skills in **JavaScript** and **React**.
-- Exploring more **backend technologies** to broaden my expertise.
-- Learning about **responsive design** and improving **accessibility** in web development.
-
----
-
-Thanks for stopping by! Feel free to check out my repositories and connect with me. 😊
+# ✉️ Contact
+- You can connect with me any time at **vasilenaph13@gmail.com**
